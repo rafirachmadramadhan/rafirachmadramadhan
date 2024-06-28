@@ -25,6 +25,6 @@ Github Statistic
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rafirachmadramadhan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rafirachmadramadhan&layout=compact&langs_count=8&theme=dark"/>
 </a>
-<a href="https://github.com/Giingu"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=rafirachmadramadhan&theme=dark&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
+<a><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=rafirachmadramadhan&theme=dark&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
 </p>
 
