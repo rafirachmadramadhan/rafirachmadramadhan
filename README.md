@@ -3,7 +3,7 @@ Hi there 👋 I'm Rafi Rachmad Ramadhan
 </h1>
 
 <p align="center">
-Analyzing, exploring data, and using machine learning models to develop systems to solve various problems around and even in the world is my current goal. I am now a mathematics student at Surabaya State University. Has an interest in data, machine learning, and front-end web. In organization, currently working in a team as a communication media expert who manages organizational media management on Instagram and website. Currently learning everything, especially in mathematics, machine learning, and front-end web.
+Analyzing, exploring data, and using machine learning models to develop systems to solve various problems around and even in the world is my current goal. I am now a mathematics student at Surabaya State University. Has an interest in data, machine learning, and web. In organization, I have ever worked in a team as a leader communication media expert who manages organizational media management on Instagram and web. Currently learning everything, especially in mathematics, machine learning, and web.
 </p>
 
 <h2 align="center">
